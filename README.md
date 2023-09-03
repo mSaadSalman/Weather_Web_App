@@ -14,7 +14,7 @@ https://location-weather-appp.netlify.app/
 - [Credits](#credits)
 - [Author Info](#author-info)
 
-![weather-web](https://github.com/mSaadSalman/Weather_Web_App/assets/105026161/d7ea1928-cc32-40b0-8203-9f4c14353016)
+![weatherr](https://github.com/mSaadSalman/Weather_Web_App/assets/105026161/61163fc4-cb4d-4f18-9d15-3348511cbd95)
 
 
 ---
