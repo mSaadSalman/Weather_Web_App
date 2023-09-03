@@ -42,7 +42,7 @@ Explore the project and discover the current weather in your favorite cities, al
 1. Clone the Repository: Start by cloning this repository to your local machine using the following command:
 #### Installation
 ```html
-    git clone https://github.com/your-username/Weather_Web_App.git
+    git clone https://github.com/mSaadSalman/Weather_Web_App.git
 ```
 2. Open the Website:
 ```html
