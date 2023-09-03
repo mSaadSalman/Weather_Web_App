@@ -9,7 +9,6 @@ https://location-weather-appp.netlify.app/
 - [Description](#description)
 - [Software Devolped](#software-devolped)
 - [How To Use](#how-to-use)
-- [Backlog](#backlog)
 - [References](#references)
 - [Credits](#credits)
 - [Author Info](#author-info)
@@ -55,18 +54,6 @@ Explore the project and discover the current weather in your favorite cities, al
 
 ---
 
-### Backlog 
-| Id  | Feature  | Status  |  Date  |
-|:-:  |---       | :-:     | :-:     |
-| F01 | Proccessing Missing Values |  D | July-17-2023  |
-| F02 | Count Plot |  D |  July-17-2023  |
-| F03 | Correlation matrix and heatmap |  D | July-18-2023   |
-| F04 | Splitting Data into train and test sets |  D | July-18-2023  |
-| F05 | Feature Scaling |  D | July-18-2023 |
-| F06 | Logistic Regression |  D |  July-20-2023 |
-| F07 |Random forest Classifier  |  D |  July-27-2023 |
-
----
 ## Credits
 - Weather data provided is by Open Weather API: https://openweathermap.org/api     
 
