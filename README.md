@@ -7,6 +7,7 @@ https://location-weather-appp.netlify.app/
 ### Table of Contents
 
 - [Description](#description)
+- [Software Devolped](#software-devolped)
 - [How To Use](#how-to-use)
 - [References](#references)
 - [Author Info](#author-info)
@@ -26,13 +27,12 @@ Whether you're planning a trip, checking the weather for your daily activities, 
 
 Explore the project and discover the current weather in your favorite cities, all in one place.
 
-#### Libraries Used
+---
+## Software Devolped
+- JavaScript: The core functionality of the website is implemented in JavaScript, making it dynamic and interactive.
+- JSON API: We use a JSON-based weather API to fetch weather data for different cities.
+- HTML & CSS: The website is built using HTML for structure and CSS for styling.
 
-This project leverages the following Python libraries:
-
-- Pandas and NumPy for data manipulation and analysis
-- Matplotlib and Seaborn for data visualization
-- Scikit-learn for machine learning tasks, including data preprocessing, model training, and evaluation
 
 ---
 
