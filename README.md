@@ -28,24 +28,25 @@ Whether you're planning a trip, checking the weather for your daily activities, 
 Explore the project and discover the current weather in your favorite cities, all in one place.
 
 ---
-## Software Devolped
+## Software Developed
 - JavaScript: The core functionality of the website is implemented in JavaScript, making it dynamic and interactive.
 - JSON API: We use a JSON-based weather API to fetch weather data for different cities.
 - HTML & CSS: The website is built using HTML for structure and CSS for styling.
-
 
 ---
 
 ## How To Use
 
+1. Clone the Repository: Start by cloning this repository to your local machine using the following command:
 #### Installation
 ```html
-    pip3 install numpy
-    pip3 install pandas
-    pip3 install matplotlib
-    pip3 install seaborn
-    pip3 install sklearn
+    git clone https://github.com/your-username/Weather_Web_App.git
 ```
+2. Open the Website:
+```html
+    https://location-weather-appp.netlify.app/
+```
+3. Search for Weather: Use the search bar to enter the name of the city you want to check the weather for and press Enter.
 
 ---
 
