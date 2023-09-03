@@ -9,7 +9,9 @@ https://location-weather-appp.netlify.app/
 - [Description](#description)
 - [Software Devolped](#software-devolped)
 - [How To Use](#how-to-use)
+- [Backlog](#backlog)
 - [References](#references)
+- [Credits](#credits)
 - [Author Info](#author-info)
 
 ---
@@ -61,10 +63,13 @@ Explore the project and discover the current weather in your favorite cities, al
 | F06 | Logistic Regression |  D |  July-20-2023 |
 | F07 |Random forest Classifier  |  D |  July-27-2023 |
 
+---
+## Credits
+- Weather data provided is by Open Weather API: https://openweathermap.org/api     
 
 ---
 
-## Author Info
+### Author Info
 
 - Saad Salman, Student of Software Engineering at McMaster University
-- Website - []()
+- Website - https://saads.netlify.app/
